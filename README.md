@@ -41,10 +41,7 @@ MySQL, PostgreSQL
 
 ---
 
-## 🌐 Connect With Me
 
-- LinkedIn: ( https://www.linkedin.com/in/sumit-kawachale ) 
-- GitHub: (https://github.com/SumitKawachale/SumitKawachale) 
 
 ---
 
