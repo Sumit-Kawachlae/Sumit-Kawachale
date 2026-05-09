@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sumit 
+# Hi 👋, I'm Sumit Kawachale
 
 💻 Backend Developer | Java | Spring Boot  
 🚀 Passionate about building scalable and production-ready applications  
@@ -41,7 +41,10 @@ MySQL, PostgreSQL
 
 ---
 
+## 🌐 Connect With Me
 
+- LinkedIn: ( https://www.linkedin.com/in/sumit-kawachale ) 
+- GitHub: (https://github.com/SumitKawachale/SumitKawachale) 
 
 ---
 
