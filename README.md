@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sumit Kawachale
+# Hi 👋, I'm Sumit 
 
 💻 Backend Developer | Java | Spring Boot  
 🚀 Passionate about building scalable and production-ready applications  
