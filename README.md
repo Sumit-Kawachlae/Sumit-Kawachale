@@ -154,9 +154,9 @@ Java • Spring Boot • Hibernate • MySQL • Maven • Postman
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SumitKawachale&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SumitKawachale&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKawachale&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SumitKawachale&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
